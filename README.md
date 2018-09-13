@@ -4,7 +4,7 @@ This code helps you to find the names of people - who visited your Facebook Prof
 
 STEPS:
 
-0) Copy my javascript code available here - https://goo.gl/GU2eJM.
+0) Copy my javascript code available here.
 1) Open facebook website in your computer.
 2) Sign into your account.
 3) Press F12 on your keyboard.
