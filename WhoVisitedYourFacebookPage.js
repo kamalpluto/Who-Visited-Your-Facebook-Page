@@ -19,11 +19,10 @@ xhttpq.onreadystatechange = function() {
       console.log(str); 
       names.push(str);
       var string = list.shift(); 
-      if(string){
       string = string +"/about/"; 
       xhttpq.open("GET", string, true); 
       xhttpq.send();
-      }
+      
    }
 };
  
